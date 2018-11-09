@@ -1,2 +1,2 @@
 #Author: Vasya
-print('Hello!!!') 
+print('Hello, python!') 
